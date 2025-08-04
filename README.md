@@ -1,6 +1,6 @@
-🚀 MY Portfolio
+# 🚀 MY Portfolio
 
-You will find 
+## You will find 
 1. 📝 About Section 
 2. 🎓 Educational Background 
 3. 💡 Interests 
